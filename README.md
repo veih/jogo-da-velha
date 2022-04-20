@@ -1,6 +1,6 @@
 # jogo-da-velha
 
-# Esse jogo é uma tivida passada pela DIO.me para teste os conhecimentos de programação.
+# Esse jogo é uma ativida passada pela DIO.me para teste os conhecimentos de programação.
 
 # Sera realizado um jogo de velha com duas pessoas.
 
